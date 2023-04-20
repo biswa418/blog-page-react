@@ -21,7 +21,7 @@ function PostDetail() {
         }
 
         getDocfromDB();
-    }, []);
+    }, [postId]);
 
     let datePresent = false;
     let time = null;
