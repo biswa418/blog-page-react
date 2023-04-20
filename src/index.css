@@ -60,6 +60,11 @@ code {
   text-align: center;
 }
 
+.post-detail .time {
+  text-align: end;
+  color: #9e9e9e;
+}
+
 #nav {
   list-style-type: none;
   padding: 0;
